@@ -1,4 +1,4 @@
 # cpp-todolist
 Todo list console application made with C++
 
-Compile and run.
+Compile todolist.cpp and run.
